@@ -95,3 +95,18 @@ To learn more about React Native, take a look at the following resources:
 - [Learn the Basics](https://reactnative.dev/docs/getting-started) - a **guided tour** of the React Native **basics**.
 - [Blog](https://reactnative.dev/blog) - read the latest official React Native **Blog** posts.
 - [`@facebook/react-native`](https://github.com/facebook/react-native) - the Open Source; GitHub **repository** for React Native.
+
+
+# ai-test
+# TO DO LIST
+- [Craete Docker Container with MongoDB, FastAPI] 
+- [Create new iOs app with FastAPI backend] 
+- [Create new react native app] 
+- [Move folders to newly created app] 
+- [Create new Android app with FastAPI backend] 
+- [Create payment system logic] 
+- [Create new Desktop app with FastAPI backend] 
+- [Create new API for iOS, Android, Web, Desktop] 
+- [Publish iOS, Android, Web, Desktop apps] 
+
+# MyPaBee
